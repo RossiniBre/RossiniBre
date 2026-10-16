@@ -60,4 +60,4 @@ Exploring and deepening knowledge in:
 
 ---
 
-Last updated: September 2026
+Last updated: October 2026
