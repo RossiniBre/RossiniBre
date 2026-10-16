@@ -44,6 +44,7 @@ Exploring and deepening knowledge in:
 ## Certifications
 
 - **Web Development Fundamentals** — IBM (September 2026)
+- **Cloud Computing Fundamentals** — IBM (October 2026)
 
 ---
 
